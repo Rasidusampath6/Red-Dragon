@@ -444,7 +444,7 @@
         }
       },
       "regular": {
-        "version": 1,
+         "version": 1,
         "hash": {
           "type": "Buffer",
           "data": "LsAIY3+an2PEBsfgkEBKuYUQy+NWVwQRLcQVi6jhPSKKyhM7wolCkFpk4a2SMsoTLUrvYAApxuSi72nMK7xqggJ1eqYsThGYFyT02Z1adtdQoTr9XyeTv4M0zA6hDenz/d14JcXI7O85GgAW/qEFA0XzpSte0SfzPjUmmsENF1Y="
